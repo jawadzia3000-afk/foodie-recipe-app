@@ -1,3 +1,4 @@
+https://snack.expo.dev/@jawad-zia23/github.com-jawadzia3000-afk-foodie-recipe-app
 # Foodie 🍳
 
 A recipe app built with React Native + Expo. Browse recipes by category, view full recipe
